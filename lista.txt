@@ -1,0 +1,7 @@
+terminal.xpm
+archivo1.txt
+archivo2.txt
+archivo3.txt
+otro_archivo.txt
+archivo_grande.zip
+ultimo_archivo.mp3
