@@ -1,7 +1,9 @@
-terminal.xpm
-archivo1.txt
-archivo2.txt
-archivo3.txt
-otro_archivo.txt
-archivo_grande.zip
-ultimo_archivo.mp3
+3c4d5f618a6c493308ca56e05d913ebb  terminal.xpm
+818e2c354777db4fc64fa46a29415181  bloque.php
+8f0d710e70570c9aa41a2a823589bd48  hasfile.php
+13ca51a44939a6d09431f36f28db7e21  inicio.php
+62a4f5baeb9867ea8e69c324163b48e6  lista.php
+30530804b78159da7230b6990050d3b2  registroBorrar.php
+9d85e59bc4ba72f02a1fcc74e6c095d5  registro.php
+0074e06de8f9cdf3e80dd3d683d86487  termina.php
+2cc8de1c7b5131b4723297067309e5a1  whosonline.php
